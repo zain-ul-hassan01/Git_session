@@ -6,3 +6,4 @@ if sample.count(sample1) > 0
 end
 
 puts "I love uh wada wada"
+puts "I love division"
